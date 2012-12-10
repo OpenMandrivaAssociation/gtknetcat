@@ -42,3 +42,27 @@ rm -rf %{buildroot}
 %{python_sitelib}/%name
 %{_libdir}/*.py
 %{_datadir}/applications/*.desktop
+
+
+%changelog
+* Sat Nov 06 2010 Funda Wang <fwang@mandriva.org> 0.1-5mdv2011.0
++ Revision: 593900
+- rebuild for py2.7
+
+* Fri Sep 11 2009 Thierry Vignaud <tv@mandriva.org> 0.1-4mdv2010.1
++ Revision: 437830
+- rebuild
+
+* Fri Mar 06 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0.1-3mdv2009.1
++ Revision: 349487
+- fix netcat dependency
+
+* Tue Jan 06 2009 Funda Wang <fwang@mandriva.org> 0.1-2mdv2009.1
++ Revision: 325637
+- rebuild
+
+* Thu Jul 17 2008 Funda Wang <fwang@mandriva.org> 0.1-1mdv2009.0
++ Revision: 237691
+- import gtknetcat
+
+
