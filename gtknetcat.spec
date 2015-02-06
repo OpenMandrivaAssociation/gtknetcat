@@ -4,7 +4,7 @@
 Summary:	Easy-to-use and handy GUI frontend of netcat (nc) command
 Name:		gtknetcat
 Version:	0.1
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Graphical desktop/Other
 Url:		http://lxde.sourceforge.net/
