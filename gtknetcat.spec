@@ -7,7 +7,7 @@ Version:	0.1
 Release:	7
 License:	GPLv2+
 Group:		Graphical desktop/Other
-Url:		http://lxde.sourceforge.net/
+Url:		https://lxde.sourceforge.net/
 Source0:	http://dfn.dl.sourceforge.net/sourceforge/lxde/%{name}-%{version}.tar.gz
 BuildRequires:	intltool
 BuildRequires:	pkgconfig(gnome-python-2.0)
